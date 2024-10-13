@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdelhalim</h1>
 <h3 align="center">A passionate fullstack developer with mern stack</h3>
 
-[![MasterHead](https://repository-images.githubusercontent.com/323452378/f65fa580-43e4-11eb-83bc-328f29dfe7f0)](https://rishavchanda.io)
 <img align="right" alt="coding" width="400" src ="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haleem200&label=Profile%20views&color=0e75b6&style=flat" alt="haleem200" /> </p>
 
