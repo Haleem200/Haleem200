@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src ="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haleem200&label=Profile%20views&color=0e75b6&style=flat" alt="haleem200" /> </p>
 
-- 🌱 I’m currently learning **react.js, next.js, and tailwind**
+- 🌱 I’m currently learning **react.js, typescript, and nest.js**
 
 - 💬 Ask me about **javascript, node.js, express.js and mongoDB**
 
